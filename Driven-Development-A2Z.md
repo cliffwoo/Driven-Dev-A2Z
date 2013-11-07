@@ -12,7 +12,7 @@ Driven Development From A To Z
 ## F
 ## G
 
--  Girl Driven Development  :    花姑娘驱动开发 , 常见于大学校园的一种开发模式 ,  开发过程中常伴有荷尔蒙分泌旺盛、妄想、流口水等症状。
+-  Girl Driven Development  :    妹子驱动开发 , 常见于大学校园的一种开发模式 ,  开发过程中常伴有荷尔蒙分泌旺盛、妄想、流口水等症状。
 
  
 ## H
