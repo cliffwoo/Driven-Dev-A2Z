@@ -1,4 +1,3 @@
-
 Driven Development From A To Z
 ===========
 
@@ -21,7 +20,7 @@ Driven Development From A To Z
 ## G
 
 -  Girl Driven Development  :    妹子驱动开发 , 常见于大学校园的一种开发模式 ,  开发过程中常伴有荷尔蒙分泌旺盛、妄想、流口水等症状。
-
+－ GuoZong Driven Development : 不想被郭总喷，就好好写优雅的代码！
  
 ## H
 ## I
