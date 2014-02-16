@@ -1,4 +1,3 @@
-
 Driven Development From A To Z
 ===========
 
@@ -38,6 +37,9 @@ Driven Development From A To Z
 ## T
 ## U
 ## V
+
+- Vacation Driven Development : 语出Matz大叔，因为Ruby总在Matz暑假或圣诞时发布。（![Ref Here](https://blog.heroku.com/archives/2013/3/6/matz_highlights_ruby_2_0_at_waza)）
+
 ## W
 ## X
 ## Y
