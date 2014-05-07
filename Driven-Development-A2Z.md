@@ -16,6 +16,9 @@ Driven Development From A To Z
 - Deadline Driven Development :  传说中的"死线"驱动开发，在各种领域均很常见，在项目/作业 的截止日期前夜，总能激发开发者无穷的潜力。
 
 ## E
+
+- Express Delivery Driven Development :  由快递公司派件速度驱动开发，快递小哥正式成为项目一份子。
+
 ## F
 ## G
 
