@@ -42,6 +42,9 @@ Driven Development From A To Z
 ## R
 ## S
 ## T
+
+- TopCharts Driven Development : 给App Store做应用开发，要想有销量必须得能上榜，所以开发的过程中会各种面向能否上榜做决定，故称上榜驱动开发。
+
 ## U
 ## V
 
