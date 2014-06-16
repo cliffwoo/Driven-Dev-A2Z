@@ -4,6 +4,7 @@ Driven Development From A To Z
 ## A
 
 - Alcohol Driven Development : 古有李白醉酒吟诗留千古，今有码农独酌抠ding漏洞多啊。
+- Anniversary Driven Development : 语出Matz大叔，Ruby在20周年庆祝时发布2.0版，故得名。（![Ref Here](https://blog.heroku.com/archives/2013/3/6/matz_highlights_ruby_2_0_at_waza)）
 
 ## B
 ## C
