@@ -14,8 +14,8 @@ Driven Development From A To Z
 
 ## D
 
-- Deadline Driven Development :  传说中的"死线"驱动开发，在各种领域均很常见，在项目/作业 的截止日期前夜，总能激发开发者无穷的潜力。
 - Daily Report Driven Development : 日报驱动开发，常见于学术界。不好好干活，被老板催交日报不好交待。
+- Deadline Driven Development :  传说中的"死线"驱动开发，在各种领域均很常见，在项目/作业 的截止日期前夜，总能激发开发者无穷的潜力。
 
 ## E
 
