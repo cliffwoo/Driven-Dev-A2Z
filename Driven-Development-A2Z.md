@@ -14,6 +14,7 @@ Driven Development From A To Z
 
 ## D
 
+- Daily Report Driven Development : 日报驱动开发，常见于学术界。不好好干活，被老板催交日报不好交待。
 - Deadline Driven Development :  传说中的"死线"驱动开发，在各种领域均很常见，在项目/作业 的截止日期前夜，总能激发开发者无穷的潜力。
 
 ## E
@@ -52,6 +53,9 @@ Driven Development From A To Z
 - Vacation Driven Development : 语出Matz大叔，因为Ruby总在Matz暑假或圣诞时发布。（![Ref Here](https://blog.heroku.com/archives/2013/3/6/matz_highlights_ruby_2_0_at_waza)）
 
 ## W
+
+- Weekly Report Driven Development : 周报驱动开发，类似于日报驱动开发。
+
 ## X
 ## Y
 ## Z
