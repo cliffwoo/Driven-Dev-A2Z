@@ -22,6 +22,8 @@ Driven Development From A To Z
 - Express Delivery Driven Development :  由快递公司派件速度驱动开发，快递小哥正式成为项目一份子。
 
 ## F
+- Financing Driven Development :  融资驱动开发，不给钱不干活！ “Shut up and show me the money!”
+
 ## G
 
 -  Girl Driven Development  :    妹子驱动开发 , 常见于大学校园的一种开发模式 ,  开发过程中常伴有荷尔蒙分泌旺盛、妄想、流口水等症状。
